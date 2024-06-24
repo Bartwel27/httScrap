@@ -27,7 +27,7 @@ _Usage_
 
 _License_
 
-httScrap is licensed under the MIT License. See [LICENSE](https://github.com/bartwel27/LICENSE) for details.
+httScrap is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 _Author_
 
