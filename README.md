@@ -19,7 +19,7 @@ _Features_
 _Getting Started_
 
 1. Clone the repository: 
-2. Run the script: `python (link unavailable)`
+2. Run the script: `bash main.sh`
 
 _Usage_
 
@@ -27,11 +27,11 @@ _Usage_
 
 _License_
 
-httScrap is licensed under the MIT License. See LICENSE for details.
+httScrap is licensed under the MIT License. See [LICENSE](https://github.com/bartwel27/LICENSE) for details.
 
 _Author_
 
-bartwel27
+[Bartwel27](https://github.com/bartwel27/)
 
 _Acknowledgments_
 
